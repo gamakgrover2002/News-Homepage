@@ -148,6 +148,7 @@ hr {
   color: darkgray;
 }
 .extra {
+  text-align:center;
   padding-top: 10vh;
   font-size: small;
   width: 95vw;
